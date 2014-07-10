@@ -55,7 +55,8 @@ public class CalculatorView extends Frame implements ActionListener,TextListener
 
 
     }
-        /* method for initializing button setting
+    /*
+        method for initializing button setting
     */
 
 
@@ -66,7 +67,7 @@ public class CalculatorView extends Frame implements ActionListener,TextListener
         int buttonNumber = 9;
         /*
           adding buttons attached with action listener and
-           with number from 9 to 0 into the button array
+           with numbers from 9 to 0 into the button array
          */
         for(int i = 0; i < 4; i++){
             for(int j =0 ;j < 7;j++){
