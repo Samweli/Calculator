@@ -85,15 +85,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar:///usr/local/java/jdk1.7.0_25/jre/lib/javaws.jar!/com/sun/javaws/Main.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="13" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CalculatorMain.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CalculatorMain.java">
           <provider selected="true" editor-type-id="text-editor">
